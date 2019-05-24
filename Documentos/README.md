@@ -11,5 +11,3 @@
 * Manuales de usuario
 
 * Manuales de programacion
-
-
